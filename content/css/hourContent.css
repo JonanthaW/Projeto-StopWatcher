@@ -1,0 +1,10 @@
+.hour h2 {
+  color: #1ac61a;
+  font-size: 15vw;
+}
+
+@media only screen and (max-width: 600px) {
+  .hour h2 {
+    font-size: 22vw;
+  }
+}

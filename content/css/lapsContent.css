@@ -1,0 +1,21 @@
+.showLaps ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-gap: 2vw;
+}
+
+.showLaps ul li {
+  color: #fff;
+  font-size: 2vw;
+}
+
+@media only screen and (max-width: 600px) {
+  .showLaps ul {
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 3vw;
+  }
+  .showLaps ul li {
+    font-size: 4vw;
+  }
+}

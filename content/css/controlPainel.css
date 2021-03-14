@@ -1,0 +1,52 @@
+.controlPainel {
+  text-align: center;
+}
+
+.actionButtons {
+  display: none;
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 1vw;
+  margin: 3vw;
+}
+
+.controlPainel button {
+  color: #fff;
+  height: 8vh;
+  width: 26vw;
+  border: .2vw solid white;
+  font-size: 2vw;
+  background-color: inherit;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.controlPainel button:hover {
+  font-size: 3vw;
+}
+
+.controlPainel .actionButtons button:nth-child(1), .controlPainel .actionButtons button:nth-child(3) {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.controlPainel .actionButtons button:nth-child(2), .controlPainel .actionButtons button:nth-child(4) {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .actionButtons {
+    grid-gap: 2vw;
+    margin: 6vw;
+  }
+
+  .controlPainel button {
+    height: 5vh;
+    width: 30vw;
+    font-size: 4vw;
+  }
+
+  .controlPainel button:hover {
+    font-size: 6vw;
+  }
+}
