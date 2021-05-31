@@ -4,9 +4,15 @@
 
 ## :rocket: Sobre a página
 
-Um relógio que te ajuda a traçar o tempo que você passa em atividades, utilizando **HTML, JS, CSS**.
+Um relógio que te ajuda a traçar um determinado tempo de uma atividade.
 
-### Tela da aplicação
+
+#### :wrench: Techs utilizadas:
+* _HTML_
+* _JS_
+* _CSS_
+
+#### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/Projeto-StopWatcher/blob/main/assets/example1.jpg)
 ![image](https://github.com/JonanthaW/Projeto-StopWatcher/blob/main/assets/example2.jpg)
