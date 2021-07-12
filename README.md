@@ -14,5 +14,5 @@ Um relógio que te ajuda a traçar um determinado tempo de uma atividade.
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-StopWatcher/blob/main/assets/example1.jpg)
-![image](https://github.com/JonanthaW/Projeto-StopWatcher/blob/main/assets/example2.jpg)
+![image](https://github.com/JonanthaW/StopWatcher/blob/main/assets/example1.jpg)
+![image](https://github.com/JonanthaW/StopWatcher/blob/main/assets/example2.jpg)
