@@ -19,6 +19,8 @@ Um relógio que te ajuda a traçar um determinado tempo de uma atividade.
 
 ### :computer: Baixando o conteúdo:
 
+<p>Feel free to download this repository and use it however you like. </p>
+
 ```bash
-$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+$ git clone https://github.com/JonanthaW/StopWatcher.git
 ```
